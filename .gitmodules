@@ -1,0 +1,24 @@
+[submodule "movies-explorer-frontend"]
+	path = movies-explorer-frontend
+	url = https://github.com/Anastasy-ya/movies-explorer-frontend.git
+[submodule "movies-explorer-api"]
+	path = movies-explorer-api
+	url = https://github.com/Anastasy-ya/movies-explorer-api.git
+[submodule "react-mesto-api-full-gha"]
+	path = react-mesto-api-full-gha
+	url = https://github.com/Anastasy-ya/react-mesto-api-full-gha.git
+[submodule "express-mesto-gha"]
+	path = express-mesto-gha
+	url = https://github.com/Anastasy-ya/express-mesto-gha.git
+[submodule "react-mesto-auth"]
+	path = react-mesto-auth
+	url = https://github.com/Anastasy-ya/react-mesto-auth.git
+[submodule "mesto-vanilla-js"]
+	path = mesto
+	url = https://github.com/Anastasy-ya/mesto.git
+[submodule "travel"]
+	path = travel
+	url = https://github.com/Anastasy-ya/travel.git
+[submodule "how-to-learn"]
+	path = how-to-learn
+	url = https://github.com/Anastasy-ya/how-to-learn.git
